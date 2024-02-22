@@ -1,14 +1,24 @@
-Report Pizza Sales
+# Pizza Sales Report 
 
-Language used MS SQL Server
+### Language used MS SQL Server
 
-The objective of this project is to perform an analysis of the sales of a pizzeria in the course of one year
+![image](https://github.com/ELopez2657/SQL_proyect_2_Pizza_Sales/assets/146747798/f98adaf9-0007-4e4a-87b3-8087613ad14a)
 
-Dashboard Power_Bi 
+The dataset provided belongs to the analysis of pizza sales for one year from a pizza factory. Through queries in MS SQL, the aim is to provide answers to the following questions:
 
-https://app.powerbi.com/links/81w9To_1Qk?ctid=a988ccd4-00ed-4bf3-a4d1-b5661f44abdf&pbi_source=linkShare
-
-![image](https://github.com/ELopez2657/Dashboard_Power_Bi_P1/assets/146747798/1fa823fc-c239-4d4c-a02a-a37f7d5af1b0)
-
-![image](https://github.com/ELopez2657/Dashboard_Power_Bi_P1/assets/146747798/88c53a00-f86c-4385-a447-432fa6989c6d)
-
+1. What is the total revenue generated from pizza sales?
+2. What is the average revenue per order?
+3. How many pizzas were sold in total?
+4. What is the total number of orders?
+5. What is the average number of pizzas per order?
+6. What is the daily trend for total orders?
+7. What is the monthly trend for total orders?
+8. What percentage of sales is contributed by each pizza category?
+9. What percentage of sales is contributed by each pizza type?
+10. What percentage of sales is contributed by each pizza size?
+11. What are the top 10 pizzas by revenue?
+12. What are the bottom 5 pizzas by revenue?
+13. What are the top 10 pizzas by quantity sold?
+14. What are the bottom 5 pizzas by quantity sold?
+15. What are the top 10 pizzas by number of orders?
+16. What are the bottom 5 pizzas by number of orders?
