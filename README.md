@@ -1,8 +1,13 @@
-# Pizza Sales Report 
-
 ![image](https://github.com/ELopez2657/SQL_proyect_2_Pizza_Sales/assets/146747798/f98adaf9-0007-4e4a-87b3-8087613ad14a)
 
 This analysis is all about checking out how this Pizza Shop is doing with sales using MS SQL Server. The goal is to figure out what's up with pizza sales, revenue, order trends, and which pizzas everyone's loving. We're talking total revenue, average revenue per order, how many pizzas have been sold, and what's been happening day by day and month by month with orders. And hey, we'll also dive into which pizza categories, types, and sizes are pulling in the dough. Plus, we'll find out which pizzas are crushing it and which ones could use a little boost
+
+### Relationship Diagram
+
+![image](https://github.com/ELopez2657/SQL_proyect_2_Sales_Report/assets/146747798/dc4c511a-7d9d-4130-ba78-025ae1684158)
+
+
+### Results
 
 1. What is the total revenue generated from pizza sales?
 
